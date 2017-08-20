@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+	{
+	  "item": "minecraft:milk_bucket" 
+	},
+	{
+	  "item": "teaandbiscuits:cup_water"
+	},
+	{
+	  "item": "teaandbiscuits:teabag"
+	}
+  ],
+  "result": {
+    "item": "teaandbiscuits:cup_tea"
+  }
+}

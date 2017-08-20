@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+	{
+	  "item": "teaandbiscuits:cup_water"
+	},
+	{
+	  "item": "teaandbiscuits:tea_leaf"
+	}
+  ],
+  "result": {
+    "item": "teaandbiscuits:cup_green_tea"
+  }
+}

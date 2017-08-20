@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+	{
+      "item": "teaandbiscuits:digestive"
+    },
+	{
+	  "item": "teaandbiscuits:cup_tea_hot"
+	}
+  ],
+  "result": {
+    "item": "teaandbiscuits:digestive_dipped"
+  }
+}

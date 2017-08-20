@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+	{
+	  "item": "teaandbiscuits:cup_water"
+	},
+	{
+	  "item": "teaandbiscuits:kettle_hot"
+	}
+  ],
+  "result": {
+    "item": "teaandbiscuits:cup_water_boiled"
+  }
+}

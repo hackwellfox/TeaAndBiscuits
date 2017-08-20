@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "teaandbiscuits:blocks/ginger_stage_4"
+    }
+}

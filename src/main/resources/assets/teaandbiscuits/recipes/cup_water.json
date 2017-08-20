@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CCC",
+	" B "
+  ],
+  "key": {
+    "C": {
+    "item": "teaandbiscuits:cup"
+    },
+    "B": {
+    "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "teaandbiscuits:cup_water",
+	"count": 6
+  }
+}

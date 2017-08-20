@@ -1,0 +1,22 @@
+[
+{
+  "modid": "teaandbiscuits",
+  "name": "Tea And Biscuits",
+  "description": "Adds tea and biscuits",
+  "version": "",
+  "mcversion": "",
+  "url": "http://www.curse.com/mc-mods/minecraft/237362-tea-and-biscuits#",
+  "authors": [
+    "StuffTheChicken"
+  ],
+  "credits": "Xisumavoid for the idea.",
+  "logoFile": "",
+  "updateUrl": "",
+  "parent": "",
+  "screenshots": [
+  ],
+
+  "dependencies": [
+  ]
+}
+]

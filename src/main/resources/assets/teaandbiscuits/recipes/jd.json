@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WJW"
+  ],
+  "key": {
+    "W": {
+    "item": "minecraft:wheat"
+    },
+    "J": {
+    "item": "teaandbiscuits:jam_jar"
+    }
+  },
+  "result": {
+    "item": "teaandbiscuits:jd",
+	"count": 8
+  }
+}

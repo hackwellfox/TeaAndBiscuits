@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WJW"
+  ],
+  "key": {
+    "W": {
+    "item": "minecraft:wheat"
+    },
+    "J": {
+    "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "teaandbiscuits:nice",
+	"count": 8
+  }
+}

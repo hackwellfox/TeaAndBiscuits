@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+	{
+      "item": "teaandbiscuits:ginger_nut"
+    },
+	{
+	  "item": "teaandbiscuits:cup_tea_hot"
+	}
+  ],
+  "result": {
+    "item": "teaandbiscuits:ginger_nut_dipped"
+  }
+}

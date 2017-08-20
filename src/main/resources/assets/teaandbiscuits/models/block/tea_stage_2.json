@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "teaandbiscuits:blocks/tea_stage_2"
+    }
+}
